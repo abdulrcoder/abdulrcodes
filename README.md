@@ -20,7 +20,7 @@ I enjoy working with a variety of tools and technologies to build versatile appl
 - **Real-Time Collaborative Code Editor**: A collaborative platform for coding in real-time, featuring authentication with JWT, real-time sync with Socket.IO, and a Monaco-based code editor with code execution capabilities.
 - **AI-Powered Mock Interview Platform**: A mock interview platform designed with Next.js and Gemini AI, providing structured question-based interviews and personalized feedback for each response.
 
-*Explore more projects on my [GitHub](https://github.com/abdulrcoder)!*
+*Explore more projects on my [Repositories](https://github.com/abdulrcodes?tab=repositories)!*
 
 ### 🌱 Currently Learning
 
@@ -31,5 +31,5 @@ I enjoy working with a variety of tools and technologies to build versatile appl
 
 I’d love to connect and collaborate on exciting tech ideas! Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdulrcodes/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdulrcodes@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/abdulcoder)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdulrcoder@gmail.com)  
